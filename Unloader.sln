@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{0653551D-3677-2A7D-7D48-C1EA854909FA}") = "Unloader", "Assembly-CSharp.csproj", "{C3A07C40-C1B4-D502-FFCD-5BBEFACC9852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A07C40-C1B4-D502-FFCD-5BBEFACC9852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A07C40-C1B4-D502-FFCD-5BBEFACC9852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A07C40-C1B4-D502-FFCD-5BBEFACC9852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A07C40-C1B4-D502-FFCD-5BBEFACC9852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
