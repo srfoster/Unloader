@@ -44,8 +44,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Unloader\Example.cs" />
-     <Compile Include="Assets\Unloader\Unloader.cs" />
+     <Compile Include="Assets\Vendor\Unloader\Example.cs" />
+     <Compile Include="Assets\Vendor\Unloader\Unloader.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
